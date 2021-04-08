@@ -1,4 +1,5 @@
 # [Codecov][1] Java Maven Example
+[![Coverage](https://img.shields.io/codecov/c/gh/haskaris/DevOpsProject?token=2ce63d8a-8f35-4454-83a1-a3b44403b770)](https://codecov.io/gh/haskaris/DevOpsProject)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java-maven.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java-maven?ref=badge_shield)
 
 ## Guide
